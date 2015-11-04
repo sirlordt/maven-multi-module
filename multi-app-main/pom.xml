@@ -10,7 +10,7 @@
     <version>0.0.1</version>
 
   </parent>
-
+ 
   <groupId>com.example</groupId>
   <artifactId>multi-app-main</artifactId>
   <version>0.0.1</version>
